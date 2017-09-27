@@ -6,7 +6,8 @@ This application note is actually a Murano solution to demonstrate a few basic M
 
 Murano has two areas to work on when developing an IoT based system - the Product side and the Application side.  The Product side is the standard device connectivity and management you would expect from and IoT platform.  The application side of your solution though allows you to implement a data handler for incoming connected device data, implement your own API for interacting with this data (application front-ends or integrations), and to host application front-end content if necessary.
 
-![Murano Overview](graphics/overview.png)
+
+<img src="graphics/overview.png" alt="Murano Overview" width="640">
 
 ### Product Side
 
