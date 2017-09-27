@@ -1,5 +1,5 @@
-# Murano Device Data Handling Application Note
-_Application Note as a Murano Solution_
+# Murano Device Data Handling
+_Application Note_
 
 This application note is actually a Murano solution to demonstrate a few basic Murano features work when sending device data, storing it, and retrieving it via an API.
 
@@ -29,3 +29,5 @@ This application note is not focused on discussing all of the functionality of t
 ### Application Side
 
 ![Application overview](graphics/application_overview.png)
+
+The Murano application side is made up of event handlers, API routes, custom modules, and the available services such as database, communication, user/group, and other types of services.  Developers are able to create their own event handler logic and define their own API routes.
